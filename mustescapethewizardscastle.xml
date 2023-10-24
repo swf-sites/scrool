@@ -1,3 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+<ModulePrefs title="Effing Worms Xmas" />
+<Content type="html"><![CDATA[
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -79,8 +84,8 @@
                     <!-- style="font-size: 1.5em; color: #058;" -->
 
                     <!-- <br>
-					<label for="body-damage" title="allow damage from the ground and large fast moving blocks">collision damage from blocks:</label>
-					<input type="checkbox" id="body-damage" name="body-damage" checked style="width:17px; height:17px;"> -->
+                    <label for="body-damage" title="allow damage from the ground and large fast moving blocks">collision damage from blocks:</label>
+                    <input type="checkbox" id="body-damage" name="body-damage" checked style="width:17px; height:17px;"> -->
                     <br>
                     <label for="banned" title="type banned levels with a space between them.  Example:  run temple biohazard">banned levels:</label>
                     <input id="banned" name="banned" placeholder="list levels by name" autocomplete="off" spellcheck="false" style="width: 182px;" />
@@ -411,3 +416,6 @@
 </body>
 
 </html>
+
+]]></Content>
+</Module>
